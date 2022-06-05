@@ -65,7 +65,7 @@ When you’re using most word processors and text editors, the alphanumeric keys
 - [@Ali Hossain](https://github.com/shovoalways/) 👉 Follow me on Github
 
 ## 🧑‍💻 Follow me
-- [@Ali Hossain](https://github.com/shovoalways/) 
+- [@Github](https://github.com/shovoalways/) 
 - [@Facebook](https://facebook.com/shovoalways/) 
 - [@Twitter](https://twitter.com/shovoalways/) 
 - [@Instagram](https://instagram.com/shovoalways/) 
