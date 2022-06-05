@@ -64,7 +64,7 @@ When you’re using most word processors and text editors, the alphanumeric keys
 ## 🧑‍💻 Contributors
 - [@Ali Hossain](https://github.com/shovoalways/) 👉 Follow me on Github
 
-## 🧑‍💻 Follow me
+## 🥰 Follow me
 - [@Github](https://github.com/shovoalways/) 
 - [@Facebook](https://facebook.com/shovoalways/) 
 - [@Twitter](https://twitter.com/shovoalways/) 
